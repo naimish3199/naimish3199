@@ -15,7 +15,14 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimish3199&show_icons=true&locale=en&layout=compact" alt="naimish3199" /></p>
 -->
 
-## 🌐 Socials:
+# 💫 About Me:
+<h1 align="center">Hi, I'm Naimish Sharma</h1>
+<h3 align="center">A passionate about Data Science and Machine Learning</h3>
+
+- 📫 How to reach me **naimish.s2017@gmail.com**
+
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naimishsharma) 
 
 # 💻 Tech Stack:
