@@ -37,6 +37,11 @@ With a strong foundation in **data science**, I enjoy transforming ideas into sc
 ![LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=flat&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23FF6F00.svg?style=flat&logo=llamaindex&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-%2300B5AD.svg?style=flat&logo=milvus&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%2314638B.svg?style=flat&logo=databricks&logoColor=white)
+![Faiss](https://img.shields.io/badge/Faiss-%23222222.svg?style=flat&logo=facebook&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23E84A5F.svg?style=flat&logo=graphql&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-%23009688.svg?style=flat&logo=vercel&logoColor=white)
+
 
 ### 🌐 Web & Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
