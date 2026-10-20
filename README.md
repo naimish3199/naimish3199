@@ -25,5 +25,5 @@ Solving real-world business problems using AI
 ## 🌐 Connect With Me
 Would love to chat/collaborate with people building AI Agents, RAG, or LLM-powered systems!
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimishsharma/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://naimish3199.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimishsharma/)
  
